@@ -98,7 +98,7 @@ Because:
 
 * Make is not PHP, and is hard to maintain in large projects
 * Others are either too verbose, OOP-heavy, requiring YML or XML configurations or are specialized in deployment only.
-* Symfony Console is a great base — but Castor is built on top of it and gives you superpowers
+* Symfony Console is a great base — and Castor is built on top of it and gives you superpowers
 
 → See detailed comparisons in our [FAQ](https://castor.jolicode.com/faq/)
 
