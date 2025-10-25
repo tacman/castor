@@ -17,8 +17,6 @@ This allow to execute external php script even if you don't have PHP when using
 the static binary and without conflicts between the external script and internal
 php code of Castor.
 
-The `run_php()` takes exactly the same options as the `run()` function.
-
 ### Script requiring more memory
 
 If you need to execute a script that requires more memory than the default
